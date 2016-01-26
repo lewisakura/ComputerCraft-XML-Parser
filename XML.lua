@@ -3,6 +3,7 @@ XML Parser and generator built by lewislovesgames.
 To add to your code, add this: dofile( "XML" )
 That makes it so it's like running functions that are written in your code
 --]]--
+local xml = {}
 function xml:parse( file ) -- future versions
  
 end
